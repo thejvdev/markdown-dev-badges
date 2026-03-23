@@ -54,6 +54,7 @@ All badges in this section are organized by category and listed in alphabetical 
 | [![Docling](https://img.shields.io/badge/Docling-000000)](https://www.docling.ai) | `[![Docling](https://img.shields.io/badge/Docling-000000)](https://www.docling.ai)` |
 | [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org) | `[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)` |
 | [![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)](https://ollama.com) | `[![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)](https://ollama.com)` |
+| [![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)](https://onnx.ai) | `[![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)](https://onnx.ai)` |
 | [![SearXNG](https://img.shields.io/badge/SearXNG-3050FF?logo=searxng&logoColor=white)](https://docs.searxng.org) | `[![SearXNG](https://img.shields.io/badge/SearXNG-3050FF?logo=searxng&logoColor=white)](https://docs.searxng.org)` |
 
 ### Web
